@@ -1,6 +1,6 @@
 This repository contains the code files for EDA and DAGs for both static data and dynamic data for the project ‘Trending Youtube Videos Analysis’.
  
-Static datasets are present at 
+Static datasets are present at (Could not upload data to github due to limitation in size)
 - https://www.kaggle.com/datasets/datasnaek/YouTube-new
 - https://www.kaggle.com/datasets/datasnaek/YouTube
 
